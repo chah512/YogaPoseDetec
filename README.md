@@ -1,1 +1,1 @@
-Image classification project to detect yoga pose (CNN , Movenet) 
+Image classification project to detect yoga pose (CNN , Movenet ...) 
